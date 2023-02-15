@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a SNN drone controller
-- 🌱 I’m currently learning Rust, how to file taxes
+- 🔭 I’m currently working on Event camera object detection
+- 🌱 I’m trying to learn Rust and how to file taxes
 - 👯 I’m looking to collaborate on anything interesting
-- 🤔 I’m looking for help with life... Don't expect many answeres :)
 - 💬 Ask me about anything!
 - 📫 How to reach me: Email, 60% of the time, it works every time.
 - 😄 Pronouns: He/Him
